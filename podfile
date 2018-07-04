@@ -1,0 +1,4 @@
+platform :ios, '8.0'
+target 'test_GPUImage' do
+pod 'GPUImage'
+end
